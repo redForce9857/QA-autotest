@@ -6,7 +6,7 @@ This repository contains automated tests for a web application. The tests were b
 
 To install the repository, clone it with the following command:
 
- ```git clone https://github.com/[username]/[repository-name].git```
+ ```git clone https://github.com/redForce9857/QA-autotest.git```
 
 
 After cloning the repository, navigate to the root directory and run the following command to install the necessary dependencies:
